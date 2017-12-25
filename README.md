@@ -1,4 +1,4 @@
-
+# There are comments with each line so that you can understand the code.
 
 ## 1.How to run the script "run_analyis.R"
 1. copy the three R files present in the repository in your folder of data which you get after extracting that is "UCI HAR Dataset"
