@@ -8,3 +8,5 @@ newDf<-subset(combDataSet,select=c("subject","activities",Selecting_columns)) # 
 newDf<-as.tbl(newDf) # applying as.tbl() so that we can easily apply group_by
 groupedByDf<-group_by(newDf,subject,activities) #grouping by subject and activities
 DataSetOfMean<-summarise_all(groupedByDf,funs(mean)) #finding mean of all variables except of grouping variables
+View(combDataSet)
+View(DataSetOfMean)
