@@ -20,3 +20,8 @@
 
 2.  DataSetOfMean--> it is a data set which contains Mean of mean and std variable and is summarised by each subjects' 6 different 
                    activities.
+
+## 5. Information about R files
+1. tidyingTrainData.R contain code for arranging training data.
+2. tidyingTestData.R contain code for arranging training data.
+note: the test data R file should be run first then the training data R file should be run because they both are linked.
