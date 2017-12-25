@@ -6,17 +6,17 @@
 3. In Rstudio type source("run_analysis.R")
 
 ## 2.Labels for activities
-W for walking
-WU for walking upstair
-WD for Walking Downstairs
-SI for sitting
-ST for standing
-L for Laying
+1.  W for walking
+2.  WU for walking upstair
+3.  WD for Walking Downstairs
+4.  SI for sitting
+5.  ST for standing
+6.  L for Laying
 
 ## 3.Column variables are same as described in the file "features.txt"
 
 ## 4.The main datasets
-1.combDataSet  --> it is a data set which is a combination of subjects,activities,test data,train data and the variables are also present.
+1.  combDataSet  --> it is a data set which is a combination of subjects,activities,test data,train data and the variables are also present.
 
-2.DataSetOfMean--> it is a data set which contains Mean of mean and std variable and is summarised by each subjects' 6 different 
+2.  DataSetOfMean--> it is a data set which contains Mean of mean and std variable and is summarised by each subjects' 6 different 
                    activities.
