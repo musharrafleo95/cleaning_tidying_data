@@ -1,7 +1,10 @@
 # There are comments with each line so that you can understand the code.
 
+datalink <- https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+dataDescriptionLink <- http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
 ## 1.How to run the script "run_analyis.R"
-1. copy the three R files present in the repository in your folder of data which you get after extracting that is "UCI HAR Dataset"
+1. copy the three R files present in this repository in your folder which you get after extracting the file that is "UCI HAR Dataset"
 2. In Rstudio set the folder "UCI HAR Dataset" as your working directory.  
 3. In Rstudio type source("run_analysis.R")
 
