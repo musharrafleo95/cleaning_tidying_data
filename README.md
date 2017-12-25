@@ -17,4 +17,6 @@ L for Laying
 
 ## 4.The main datasets
 1.combDataSet  --> it is a data set which is a combination of subjects,activities,test data,train data and the variables are also present.
-2.DataSetOfMean--> it is a data set which contains Mean of mean and std variable and is summarised by each subjects' 6 different        activities.
+
+2.DataSetOfMean--> it is a data set which contains Mean of mean and std variable and is summarised by each subjects' 6 different 
+                   activities.
